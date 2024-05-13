@@ -1,19 +1,29 @@
-### Hi there 👋
+### Bem vindos ao meu GitHub! 😎
+<img src = "200w.webp" width = "350px">
 
-<div style="width:100%;height:0;padding-bottom:10%;position:relative;"><iframe src="https://giphy.com/embed/Cj8eymh7zr14N9pRA9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+👩‍💻 Cursando Análise e Desenvolvimento de Sistemas
 
-<p><a href="https://giphy.com/gifs/Cj8eymh7zr14N9pRA9">via GIPHY</a></p>
+💻 Ainda no ínicio da minha carreira em TI
 
+🔎 Em busca de um estágio 
 
-Here are some ideas to get you started:
+🎧 Viciada em música
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+___
+
+<div>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div>
+<a href="https://www.linkedin.com/in/natalia-miatelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+___
+
 
 
